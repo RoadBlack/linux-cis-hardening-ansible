@@ -13,7 +13,7 @@ This repository documents my step-by-step journey of hardening a Rocky Linux 9 s
 - `manual-hardening.md` – Manual steps and config changes
 - `ansible/` – Automation scripts (in progress)
 - `scans/` – OpenSCAP scan reports (before & after)
-- `notes/cis-checklist.md` – My personal notes from reading the CIS Benchmark
+- `docs/cis-checklist.md` – My personal notes from reading the CIS Benchmark
 
 ## 🛠 Technologies
 

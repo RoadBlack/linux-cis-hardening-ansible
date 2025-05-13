@@ -17,7 +17,7 @@ This repository documents my step-by-step journey of hardening a Rocky Linux 9 s
 
 ## 🛠 Technologies
 
-- Rocky Linux 9
+- Rocky Linux 9 ( 1:1 RHEL 9)
 - OpenSCAP & SCAP Workbench
 - Bash / Manual configuration
 - Ansible (later stage)
@@ -25,8 +25,8 @@ This repository documents my step-by-step journey of hardening a Rocky Linux 9 s
 ## ✅ Status
 
 - [x] OpenSCAP audit completed
-- [ ] Top 10 CIS items manually hardened
-- [ ] Ansible automation for SSH + Auditd
+- [ ] Fix High and Medium severity 
+- [ ] Ansible automation for SSH + PAM
 - [ ] Full automation with Ansible roles
 
 ## 📚 Learnings
